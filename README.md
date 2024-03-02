@@ -8,8 +8,7 @@ I'm passionate about exploring the intersection of technology and creativity. As
 
 ## Skills 💻
 
-- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks/Libraries:** React.js, Node.js, TensorFlow, Flask
+- **Languages:** Python, C++, Java, JavaScript, HTML/CSS, SQL
 - **Tools:** Git, VS Code, Jupyter Notebooks
 - **Other:** Agile Development, Data Analysis
 
