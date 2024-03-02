@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**berenayyigit/berenayyigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Berenay, a senior in computer science at Sabancı University. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about exploring the intersection of technology and creativity. As a computer science student, I've delved into various domains including software development, machine learning, and web development. Beyond coding, I enjoy dabbling in design, music, and hiking.
+
+## Skills 💻
+
+- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
+- **Frameworks/Libraries:** React.js, Node.js, TensorFlow, Flask
+- **Tools:** Git, VS Code, Jupyter Notebooks
+- **Other:** Agile Development, Data Analysis
+
+Thanks for stopping by! Happy coding! 🚀
