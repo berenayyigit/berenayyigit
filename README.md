@@ -3,6 +3,10 @@ I'm passionate about exploring the intersection of technology and creativity. As
 
 ## Skills 💻
 
-- **Languages:** Python, C++, Java, JavaScript, SQL
-- **Tools:** Git, VS Code, Jupyter Notebooks
+- **Programming Languages:** Python, Java, C++, JavaScript
+- **Frameworks:** Spring Framework, Laravel-Livewire
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
+- **Database Management:** MongoDB, MySQL
+- **Technologies:** HTML/CSS, Android Studio, Git
+- **Tools:** Postman, Figma, Canva, Jira
 - **Other:** Agile Development, Data Analysis
