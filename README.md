@@ -5,8 +5,10 @@ I'm passionate about exploring the intersection of technology and creativity. As
 
 - **Programming Languages:** Python, Java, C++, JavaScript
 - **Frameworks:** Spring Framework, Laravel-Livewire
-- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
-- **Database Management:** MongoDB, MySQL
+- **Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn, Keras
+- **Database Management:** MongoDB, MySQL, MS SQL
+- **Cloud Services:** Azure Cloud Environment, Azure Auto ML, Azure Data Factory
+- **Data Analytics Automation:** Power Automate, Power BI (DAX), MS Fabric
 - **Technologies:** HTML/CSS, Android Studio, Git
-- **Tools:** Postman, Figma, Canva, Jira
+- **Tools:** Jira, Postman, Figma, Canva
 - **Other:** Agile Development, Data Analysis
